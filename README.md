@@ -72,14 +72,6 @@
 
 ---
 
-### 📫 Contato
-
-- 📧 **E-mail:** camilagoncalves@ufrrj.br  / camila.goncalves@inpe.br
-- 💼 [LinkedIn](https://www.linkedin.com/in/camila-goncalves-1545382b)  
-- 📚 [Currículo Lattes](http://lattes.cnpq.br/9037978085672276)   
-
----
-
 ### ⚡ Projetos e Interesses
 
 - Monitoramento de queimadas e desmatamento  
@@ -90,4 +82,39 @@
 
 ---
 
-> 💡 "Ciência, território e tecnologia para transformar paisagens e construir soluções ambientais."
+💡 "Ciência, território e tecnologia para transformar paisagens e construir soluções ambientais."
+
+
+---
+
+**English**
+
+**Geographer | Master's student in Remote Sensing - INPE**
+
+🌎 I have a degree in Geography (Bachelor's and Master's) from UFRRJ and am currently pursuing a master's degree at the National Institute for Space Research (INPE), focusing on Remote Sensing and Geotechnologies applied to environmental analysis, natural disasters, fires, and land use and coverage.
+
+📡 I have experience in geoprocessing, remote sensing, multitemporal analysis, GIS, and environmental monitoring. I work with Python, QGIS, Google Earth Engine, and other open-source tools for spatial data processing and analysis.
+
+🔍 I am passionate about geographic data, applied research, and initiatives that promote the responsible use of science and technology to transform the territory in a sustainable way.
+
+---
+
+### ⚡ Projects and Interests
+
+
+- Monitoring of fires and deforestation
+- Multitemporal analysis of land use and land cover
+- Remote sensing applied to natural disasters
+- Production of thematic maps and cartographic representation
+- Applied environmental research with geotechnologies
+
+---
+### 📫 Contato / Contact
+
+- 📧 **E-mail:** camilagoncalves@ufrrj.br  / camila.goncalves@inpe.br
+- 💼 [LinkedIn](https://www.linkedin.com/in/camila-goncalves-1545382b)  
+- 📚 [Currículo Lattes](http://lattes.cnpq.br/9037978085672276)
+  
+---
+💡 “Science, territory, and technology to transform landscapes and build environmental solutions.
+
